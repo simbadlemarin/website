@@ -1,0 +1,16 @@
+baseURL = "http://simbad.eth.link"
+languageCode = "en-us"
+title = "Simbad Le Marin"
+theme = 'hugo-bearblog'
+author = 'simbad'
+copyright = "Copyright © 2021, Simbad Le Marin."
+enableRobotsTXT = true
+
+[permalinks]
+  blog = "/blog/:slug/"
+
+[params]
+	description = "Learning does not make one learned: there are those who have knowledge and those who have understanding. The first requires memory and the second philosophy."
+	images = ["static/preview.jpg"]
+	title = "simbad.eth.link"
+	hideMadeWithLine = true
