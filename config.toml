@@ -2,7 +2,7 @@ baseURL = "http://simbad.eth.link"
 languageCode = "en-us"
 title = "Simbad Le Marin"
 theme = 'hugo-bearblog'
-author = 'simbad'
+author = 'Simbad'
 copyright = "Copyright © 2021, Simbad Le Marin."
 enableRobotsTXT = true
 
